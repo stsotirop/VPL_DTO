@@ -1,0 +1,10 @@
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\bin\VPL_DTO.dll
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\bin\VPL_DTO.pdb
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\bin\MWArray.dll
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\bin\VPL_DTO_mat.dll
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\bin\MWArray.xml
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\obj\Debug\VPL_DTO.csproj.AssemblyReference.cache
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\obj\Debug\VPL_DTO.csproj.CoreCompileInputs.cache
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\obj\Debug\VPL_DTO.csproj.CopyComplete
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\obj\Debug\VPL_DTO.dll
+C:\Users\stefanos\Desktop\Ocp_Github\VPL_DTO\VPL_DTO\obj\Debug\VPL_DTO.pdb

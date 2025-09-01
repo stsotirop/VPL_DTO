@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VPL_DTO", "VPL_DTO\VPL_DTO.csproj", "{BEFC3D4E-190E-4D8D-8A6B-3807505B0236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEFC3D4E-190E-4D8D-8A6B-3807505B0236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEFC3D4E-190E-4D8D-8A6B-3807505B0236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEFC3D4E-190E-4D8D-8A6B-3807505B0236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEFC3D4E-190E-4D8D-8A6B-3807505B0236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43B0793B-5D8A-498F-8038-3DCE3C3A715D}
+	EndGlobalSection
+EndGlobal
