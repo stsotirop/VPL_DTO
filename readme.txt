@@ -33,21 +33,3 @@ The 'GhcOPTProperties.cs' gathers the Optimization properties.
 The 'GhcFinalStruct.cs' gathers the final densities of the optimized structures and visualize the 
 final structure.
 
-
-For the Test Case 1
-
-Runtime: 22.13 min
-Memory usage: 2.6GB
-
-In the presented work, a continuation on the RAMP penalty
-parameter, p0, such that p0 starts at 0 and increases by 1.5
-every n number of iterations and up to a maximum value of 9 is used,
-as suggested in the PolyDyna publication. 
-Thus the value of the objective function is decreasing in each set of iterations for every different p0.
-For low values of p0 the objective function takes lower values than the optimum but without physical meaning since the layout is not developed yet.
-So there is no practical meaning to provide convergence history for these values and the results may confuse the reader.
-For more details check the PolyDyna code.
-
-Nevertheless here it is provided the convergence history of the objective and constraint function for each value of the RAMP parameter p0.
-Additionally the intermediate layouts for each p0 is given in a .jpg format.
-
