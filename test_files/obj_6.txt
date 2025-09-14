@@ -1,0 +1,26 @@
+It:   1 	 Obj.: 0.892	 Max. Const.: -0.005	 Change: 0.150
+It:   2 	 Obj.: 1.026	 Max. Const.: 0.016	 Change: 0.150
+It:   3 	 Obj.: 0.893	 Max. Const.: 0.015	 Change: 0.150
+It:   4 	 Obj.: 0.857	 Max. Const.: 0.005	 Change: 0.150
+It:   5 	 Obj.: 0.858	 Max. Const.: 0.001	 Change: 0.119
+It:   6 	 Obj.: 0.856	 Max. Const.: 0.000	 Change: 0.096
+It:   7 	 Obj.: 0.853	 Max. Const.: 0.000	 Change: 0.096
+It:   8 	 Obj.: 0.849	 Max. Const.: 0.000	 Change: 0.095
+It:   9 	 Obj.: 0.846	 Max. Const.: 0.000	 Change: 0.084
+It:  10 	 Obj.: 0.842	 Max. Const.: 0.000	 Change: 0.092
+It:  11 	 Obj.: 0.839	 Max. Const.: 0.000	 Change: 0.085
+It:  12 	 Obj.: 0.835	 Max. Const.: 0.000	 Change: 0.096
+It:  13 	 Obj.: 0.832	 Max. Const.: 0.000	 Change: 0.083
+It:  14 	 Obj.: 0.829	 Max. Const.: 0.000	 Change: 0.088
+It:  15 	 Obj.: 0.826	 Max. Const.: 0.000	 Change: 0.102
+It:  16 	 Obj.: 0.823	 Max. Const.: 0.000	 Change: 0.100
+It:  17 	 Obj.: 0.820	 Max. Const.: 0.000	 Change: 0.114
+It:  18 	 Obj.: 0.818	 Max. Const.: 0.000	 Change: 0.100
+It:  19 	 Obj.: 0.815	 Max. Const.: 0.000	 Change: 0.102
+It:  20 	 Obj.: 0.813	 Max. Const.: 0.000	 Change: 0.090
+It:  21 	 Obj.: 0.810	 Max. Const.: 0.000	 Change: 0.097
+It:  22 	 Obj.: 0.808	 Max. Const.: 0.000	 Change: 0.108
+It:  23 	 Obj.: 0.805	 Max. Const.: 0.000	 Change: 0.086
+It:  24 	 Obj.: 0.803	 Max. Const.: 0.000	 Change: 0.095
+It:  25 	 Obj.: 0.801	 Max. Const.: 0.000	 Change: 0.100
+Optimized Objective: 4.319e-05
